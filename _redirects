@@ -1,0 +1,6 @@
+/gpack/*        /gpack/index.html        200
+/famotidine/*   /famotidine/index.html   200
+/ondansetron/*  /ondansetron/index.html  200
+/mastic/*       /mastic/index.html       200
+/omeprazole/*   /omeprazole/index.html   200
+/               /gpack/index.html        302
