@@ -8,4 +8,4 @@
 /mastic/*     /mastic/index.html       200
 /omeprazole   /omeprazole/index.html   200
 /omeprazole/* /omeprazole/index.html   200
-/             /gpack/index.html        302
+/             /gpack/index.html        200
